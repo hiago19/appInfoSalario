@@ -26,7 +26,7 @@ Para executar o projeto localmente, siga estas etapas:
 2. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/appInfoSalario.git
+   git clone https://github.com/hiago19/appInfoSalario.git
    ```
 
 3. Navegue até o diretório do projeto:
